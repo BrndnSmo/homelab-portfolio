@@ -66,12 +66,12 @@ Internet
 | LDAP Domain Enumeration | Enumeration | LAB-AD-001 |
 | Kerberoasting | Credential Attack | LAB-AD-001 |
 | Offline Password Cracking (hashcat) | Credential Attack | LAB-AD-001 |
-| NTLM Relay Attack | Credential Attack | Planned |
-| BloodHound AD Enumeration | Enumeration | Planned |
-| AS-REP Roasting | Credential Attack | Planned |
-| Pass the Hash | Lateral Movement | Planned |
-| DCSync | Privilege Escalation | Planned |
-| Domain Admin Compromise | Full Compromise | Planned |
+| NTLM Relay Attack | Credential Attack | LAB-AD-002 |
+| BloodHound AD Enumeration | Enumeration | LAB-AD-002 |
+| AS-REP Roasting | Credential Attack | LAB-AD-002 |
+| Pass the Hash | Lateral Movement | LAB-AD-002 |
+| DCSync | Privilege Escalation | LAB-AD-002 |
+| Domain Admin Compromise | Full Compromise | LAB-AD-002 |
 
 ---
 
